@@ -1,2 +1,2 @@
 # Pastime
-## A casual entertainment site
+A casual entertainment site
