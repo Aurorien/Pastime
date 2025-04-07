@@ -1,2 +1,2 @@
 # Pastime
-A casual sounding entertainment site
+A minimalistic casual sounding entertainment site
